@@ -1,0 +1,33 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "Cypress e2e testing training project",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run",
+    "cy:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac-friedman/cypress-e2e.git"
+  },
+  "keywords": [
+    "e2e-testing",
+    "e2e",
+    "testing",
+    "js",
+    "cypress",
+    "javascript"
+  ],
+  "author": "Isaac Friedman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaac-friedman/cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/isaac-friedman/cypress-e2e#readme",
+  "dependencies": {
+    "cypress": "^5.3.0",
+    "prettier": "^2.1.2"
+  }
+}
