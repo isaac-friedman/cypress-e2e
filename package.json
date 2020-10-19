@@ -27,7 +27,9 @@
   },
   "homepage": "https://github.com/isaac-friedman/cypress-e2e#readme",
   "dependencies": {
-    "cypress": "^5.3.0",
     "prettier": "^2.1.2"
+  },
+  "devDependencies": {
+    "cypress": "^5.3.0"
   }
 }
